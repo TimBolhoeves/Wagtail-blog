@@ -1,8 +1,6 @@
 # Django-Wagtail blog
 A blog created with django-wagtail following the wagtail web tutorial
 
-# Tools
-
 # Setup
 * Create a virtual environment by typing: `py -m venv .venv`
 * Activate the venv by typing: `.venv/Scripts/activate`
